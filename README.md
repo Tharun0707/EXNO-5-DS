@@ -1,5 +1,9 @@
 # EXNO-5-DS-DATA VISUALIZATION USING MATPLOT LIBRARY
 
+**NAME : THARUN SRIDHAR**
+**REGISTER NO : 212223230230**
+
+
 # Aim:
   To Perform Data Visualization using matplot python library for the given datas.
 
